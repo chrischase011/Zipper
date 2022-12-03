@@ -2,7 +2,7 @@
 
 Write-Host "Welcome to Zipper`n`n"
 
-$path = Read-Host "`nEnter folder directory"
+$path = Read-Host "Enter folder directory"
 
 if (Test-Path -Path $path) {
     <# Action to perform if the condition is true #>
