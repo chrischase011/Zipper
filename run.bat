@@ -5,5 +5,3 @@ Rem Written by: Christopher Robin Chase
 
 
 powershell -ExecutionPolicy RemoteSigned ./zipper
-
-pause
